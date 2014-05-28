@@ -1,0 +1,13 @@
+{
+  "name": "CCSP-hw4",
+  "version": "1.0.0",
+  "description": "Simple crawler for apple daily news",
+  "author": "Lucien Lee",
+  "main": "crawler.js",
+  "dependencies": {
+    "q": "*",
+    "cheerio": "~0.16.0",
+    "request": "~2.36.0"
+  },
+  "license": "MIT"
+}
